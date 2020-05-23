@@ -34,4 +34,4 @@ makePyramid()
 #calling function
 
 #change number according to your need
-makePyramid $1
+makePyramid 5
